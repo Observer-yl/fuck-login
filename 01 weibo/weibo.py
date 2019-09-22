@@ -22,7 +22,7 @@ class LoginSinaWeibo:
         self.username = username
         self.password = password
         # ssologin.js版本
-        self.ssologin_version = 'v1.4.18'
+        self.ssologin_version = 'v1.4.19'
         # 微博登陆首页地址
         self.login_home_url = 'https://weibo.com/login.php'
         # 预登陆参数获取接口
